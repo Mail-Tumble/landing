@@ -260,7 +260,7 @@ class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <BrowserRouter basename="/bamburgh-react-crypto-application-pro/">
+        <BrowserRouter>
           <ScrollToTop>
             <Routes />
           </ScrollToTop>

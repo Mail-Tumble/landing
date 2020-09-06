@@ -1,17 +1,5 @@
 {
-  "name": "bamburgh-react-crypto-application-pro",
   "version": "2.0.0",
-  "title": "Bamburgh React Crypto Application with Material-UI PRO",
-  "homepage": "https://demo.uifort.com/bamburgh-react-crypto-application-pro",
-  "description": "Easy to customize application inspired by the cryptocurrency products niche. Start working on your product today with this amazing, clean and feature-packed niche template.",
-  "author": {
-    "name": "UiFort.com",
-    "url": "https://uifort.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/uifort/bamburgh-react-crypto-application-pro"
-  },
   "dependencies": {
     "react-dom": "16.13.1",
     "react-router": "5.1.2",
@@ -69,7 +57,8 @@
     "@material-ui/pickers": "3.2.10",
     "formik": "2.1.4",
     "yup": "0.28.5",
-    "react": "16.13.1"
+    "react": "16.13.1",
+    "serverless-finch": "^2.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -102,5 +91,8 @@
     "prettier-eslint": "9.0.1",
     "prettier-eslint-cli": "5.0.0",
     "node-sass": "4.14.1"
+  },
+  "peerDependencies": {
+    "serverless": "^1.82.0"
   }
 }
