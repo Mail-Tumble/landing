@@ -22,7 +22,7 @@ export default function LivePreviewExample() {
                 <Button
                   variant="text"
                   className="text-facebook hover-scale-sm"
-                  href="https://www.twitter.com/mailtumble">
+                  href="https://www.linkedin.com/company/mailtumble/">
                   <FontAwesomeIcon
                     icon={['fab', 'linkedin-in']}
                     className="font-size-lg"
