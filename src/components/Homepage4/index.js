@@ -85,7 +85,7 @@ export default function LivePreviewExample() {
                         className="text-primary font-size-xxl"
                       />
                       <blockquote className="my-3 text-black-50">
-                        Our general manager quit and strated a competing
+                        Our general manager quit and started a competing
                         business. Before he walked out the door he downloaded
                         our entire database. Thanks to you, it was useless to
                         him.
