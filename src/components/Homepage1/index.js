@@ -6,15 +6,10 @@ import { Grid, Container, Button } from '@material-ui/core';
 import particles2 from '../../assets/images/hero-bg/particles-2.svg';
 import illustration1 from '../../assets/images/illustrations/mt/1.png';
 
-import MarketingHeaders6 from './Header';
-
 export default function LivePreviewExample() {
   return (
     <>
       <div className="hero-wrapper bg-composed-wrapper bg-white">
-        <Container className="pt-3">
-          <MarketingHeaders6 />
-        </Container>
         <div className="hero-wrapper--content">
           <div
             className="bg-composed-wrapper--image bg-composed-filter-rm opacity-7"
