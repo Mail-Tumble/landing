@@ -23,13 +23,14 @@ export default function LivePreviewExample() {
                     <div>
                       <div className="text-black">
                         <h1 className="display-2 mb-3 font-weight-bold">
-                          Stop the possibility of a data breach or leak
+                          Wrap your PII in programmed compliance
                         </h1>
                         <p className="font-size-lg text-black-50">
-                          Use our email relay to hot-swap email addresses in
-                          your databases and CRMs so that if there is an
-                          accidental breach, a malicious hack or the simple
-                          mistake of a group email using CC rather than BCC.
+                          Sub-out email addresses in your databases and CRMs
+                          for ones that are wrapped up with rules so when 
+                          So when an email is sent to your contact record, 
+                          it can be checked for opt-in consent, for authority 
+                          of the sender and a list of other programmed qualifications.
                         </p>
                         <p className="text-black-50">
                           Your insurance, PR team and CISO will love you.
