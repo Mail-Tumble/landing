@@ -87,8 +87,7 @@ export default function LivePreviewExample() {
                       <blockquote className="my-3 text-black-50">
                         Our general manager quit and started a competing
                         business. Before he walked out the door he downloaded
-                        our entire database. Thanks to you, it was useless to
-                        him.
+                        our entire database. Thanks to you, emails were useless.
                       </blockquote>
                       <div className="font-size-lg font-weight-bold">
                         Daragh
