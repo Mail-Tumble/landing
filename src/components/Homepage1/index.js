@@ -27,8 +27,7 @@ export default function LivePreviewExample() {
                         </h1>
                         <p className="font-size-lg text-black-50">
                           Sub-out email addresses in your databases and CRMs
-                          for ones that are wrapped up with rules so when 
-                          So when an email is sent to your contact record, 
+                          for ones that are wrapped up with rules so when an email is sent to your contact record, 
                           it can be checked for opt-in consent, for authority 
                           of the sender and a list of other programmed qualifications.
                         </p>
